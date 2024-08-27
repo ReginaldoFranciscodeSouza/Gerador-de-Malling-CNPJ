@@ -1,0 +1,10 @@
+C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\bin\Debug\Gerador-de-Malling-CNPJ.exe.config
+C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\bin\Debug\Gerador-de-Malling-CNPJ.exe
+C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\bin\Debug\Gerador-de-Malling-CNPJ.pdb
+C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\obj\Debug\Gerador-de-Malling-CNPJ.csproj.AssemblyReference.cache
+C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\obj\Debug\Gerador-de-Malling-CNPJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\obj\Debug\Gerador_de_Malling_CNPJ.Properties.Resources.resources
+C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\obj\Debug\Gerador-de-Malling-CNPJ.csproj.GenerateResource.cache
+C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\obj\Debug\Gerador-de-Malling-CNPJ.csproj.CoreCompileInputs.cache
+C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\obj\Debug\Gerador-de-Malling-CNPJ.exe
+C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\obj\Debug\Gerador-de-Malling-CNPJ.pdb
