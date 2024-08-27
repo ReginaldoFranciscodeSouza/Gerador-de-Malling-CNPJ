@@ -8,3 +8,4 @@ C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-
 C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\obj\Debug\Gerador-de-Malling-CNPJ.csproj.CoreCompileInputs.cache
 C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\obj\Debug\Gerador-de-Malling-CNPJ.exe
 C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\obj\Debug\Gerador-de-Malling-CNPJ.pdb
+C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\obj\Debug\Gerador_de_Malling_CNPJ.Form1.resources
