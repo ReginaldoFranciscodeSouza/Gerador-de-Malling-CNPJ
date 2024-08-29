@@ -16,7 +16,7 @@ namespace Gerador_de_Malling_CNPJ
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Tela_Inicial());
         }
     }
 }

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Gerador_de_Malling_CNPJ
 {
-    public partial class Form1 : Form
+    public partial class Consulta_Simples : Form
     {
-        public Form1()
+        public Consulta_Simples()
         {
             InitializeComponent();
         }

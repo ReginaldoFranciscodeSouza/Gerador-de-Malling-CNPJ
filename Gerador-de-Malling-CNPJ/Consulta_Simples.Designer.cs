@@ -1,6 +1,6 @@
 ﻿namespace Gerador_de_Malling_CNPJ
 {
-    partial class Form1
+    partial class Consulta_Simples
     {
         /// <summary>
         /// Variável de designer necessária.
