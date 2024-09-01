@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Gerador_de_Malling_CNPJ.ConectaApi.ApiReceitaws;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,18 @@ namespace Gerador_de_Malling_CNPJ
         public Consulta_Simples()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var cons = new Conectaws();
+            string cnpj = textBox1.Text;
+            cons.Intergracao(cnpj);
+            MessageBox.Show(cons.ToString());    
+         
+
+
+
         }
     }
 }

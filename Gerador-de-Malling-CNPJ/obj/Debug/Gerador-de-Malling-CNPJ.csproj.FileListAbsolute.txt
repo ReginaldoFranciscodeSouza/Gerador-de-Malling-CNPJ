@@ -10,3 +10,6 @@ C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-
 C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\obj\Debug\Gerador-de-Malling-CNPJ.pdb
 C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\obj\Debug\Gerador_de_Malling_CNPJ.Tela_Inicial.resources
 C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\obj\Debug\Gerador_de_Malling_CNPJ.Consulta_Simples.resources
+C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\naldo\OneDrive\Documentos\Reginaldo\Gerador-de-Malling-CNPJ\Gerador-de-Malling-CNPJ\obj\Debug\Gerador-de-Malling-CNPJ.csproj.CopyComplete
